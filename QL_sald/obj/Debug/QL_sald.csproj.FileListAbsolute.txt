@@ -82,3 +82,5 @@ D:\study\monky4\.net\BaiTapLonCuoiKy\QL_sald\bin\Debug\zh-Hans\Microsoft.Data.Sq
 D:\study\monky4\.net\BaiTapLonCuoiKy\QL_sald\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
 D:\study\monky4\.net\BaiTapLonCuoiKy\QL_sald\obj\Debug\QL_sald.csproj.SuggestedBindingRedirects.cache
 D:\study\monky4\.net\BaiTapLonCuoiKy\QL_sald\obj\Debug\QL_sald.exe.config
+D:\study\monky4\.net\BaiTapLonCuoiKy\QL_sald\obj\Debug\QL_sald.Form1.resources
+D:\study\monky4\.net\BaiTapLonCuoiKy\QL_sald\obj\Debug\QL_sald.test.resources
