@@ -3,15 +3,27 @@
   "WorkspaceRootPath": "D:\\study\\monky4\\.net\\BaiTapLonCuoiKy\\QL_sald\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|D:\\study\\monky4\\.net\\BaiTapLonCuoiKy\\QL_sald\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|d:\\study\\monky4\\.net\\baitaploncuoiky\\ql_sald\\menucafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:menucafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|d:\\study\\monky4\\.net\\baitaploncuoiky\\ql_sald\\menucafe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:menucafe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|d:\\study\\monky4\\.net\\baitaploncuoiky\\ql_sald\\menucafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:menucafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|d:\\study\\monky4\\.net\\baitaploncuoiky\\ql_sald\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|d:\\study\\monky4\\.net\\baitaploncuoiky\\ql_sald\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|D:\\study\\monky4\\.net\\BaiTapLonCuoiKy\\QL_sald\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|d:\\study\\monky4\\.net\\baitaploncuoiky\\ql_sald\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|D:\\study\\monky4\\.net\\BaiTapLonCuoiKy\\QL_sald\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -30,15 +42,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "menucafe.cs",
+              "DocumentMoniker": "D:\\study\\monky4\\.net\\BaiTapLonCuoiKy\\QL_sald\\menucafe.cs",
+              "RelativeDocumentMoniker": "menucafe.cs",
+              "ToolTip": "D:\\study\\monky4\\.net\\BaiTapLonCuoiKy\\QL_sald\\menucafe.cs",
+              "RelativeToolTip": "menucafe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:45:02.746Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menucafe.cs [Design]",
+              "DocumentMoniker": "D:\\study\\monky4\\.net\\BaiTapLonCuoiKy\\QL_sald\\menucafe.cs",
+              "RelativeDocumentMoniker": "menucafe.cs",
+              "ToolTip": "D:\\study\\monky4\\.net\\BaiTapLonCuoiKy\\QL_sald\\menucafe.cs [Design]",
+              "RelativeToolTip": "menucafe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:45:12.412Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "menucafe.Designer.cs",
+              "DocumentMoniker": "D:\\study\\monky4\\.net\\BaiTapLonCuoiKy\\QL_sald\\menucafe.Designer.cs",
+              "RelativeDocumentMoniker": "menucafe.Designer.cs",
+              "ToolTip": "D:\\study\\monky4\\.net\\BaiTapLonCuoiKy\\QL_sald\\menucafe.Designer.cs",
+              "RelativeToolTip": "menucafe.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:45:04.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\study\\monky4\\.net\\BaiTapLonCuoiKy\\QL_sald\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -46,12 +96,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T15:42:44.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T15:42:44.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "test.cs",
               "DocumentMoniker": "D:\\study\\monky4\\.net\\BaiTapLonCuoiKy\\QL_sald\\test.cs",
               "RelativeDocumentMoniker": "test.cs",
@@ -59,12 +108,11 @@
               "RelativeToolTip": "test.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T15:32:31.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T15:32:31.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "test.Designer.cs",
               "DocumentMoniker": "D:\\study\\monky4\\.net\\BaiTapLonCuoiKy\\QL_sald\\test.Designer.cs",
               "RelativeDocumentMoniker": "test.Designer.cs",
@@ -72,24 +120,22 @@
               "RelativeToolTip": "test.Designer.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAIwCwAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T15:31:34.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T15:31:34.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "test.cs [Design]",
               "DocumentMoniker": "D:\\study\\monky4\\.net\\BaiTapLonCuoiKy\\QL_sald\\test.cs",
               "RelativeDocumentMoniker": "test.cs",
               "ToolTip": "D:\\study\\monky4\\.net\\BaiTapLonCuoiKy\\QL_sald\\test.cs [Design]",
               "RelativeToolTip": "test.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T15:31:29.608Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-12T15:31:29.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\study\\monky4\\.net\\BaiTapLonCuoiKy\\QL_sald\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
