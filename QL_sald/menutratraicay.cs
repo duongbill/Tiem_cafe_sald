@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace QL_sald
 {
-    public partial class menudelete : UserControl
+    public partial class menutratraicay : UserControl
     {
-        public menudelete()
+        public menutratraicay()
         {
             InitializeComponent();
         }

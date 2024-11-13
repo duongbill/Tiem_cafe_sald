@@ -161,17 +161,35 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="menubanh_snack.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="menubanh_snack.Designer.cs">
+      <DependentUpon>menubanh_snack.cs</DependentUpon>
+    </Compile>
     <Compile Include="menucafe.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="menucafe.Designer.cs">
       <DependentUpon>menucafe.cs</DependentUpon>
     </Compile>
-    <Compile Include="menudelete.cs">
+    <Compile Include="menuthucuongdaxay.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="menudelete.Designer.cs">
-      <DependentUpon>menudelete.cs</DependentUpon>
+    <Compile Include="menuthucuongdaxay.Designer.cs">
+      <DependentUpon>menuthucuongdaxay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menutrasua.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="menutrasua.Designer.cs">
+      <DependentUpon>menutrasua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menutratraicay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="menutratraicay.Designer.cs">
+      <DependentUpon>menutratraicay.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -184,11 +202,20 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="menubanh_snack.resx">
+      <DependentUpon>menubanh_snack.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="menucafe.resx">
       <DependentUpon>menucafe.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="menudelete.resx">
-      <DependentUpon>menudelete.cs</DependentUpon>
+    <EmbeddedResource Include="menuthucuongdaxay.resx">
+      <DependentUpon>menuthucuongdaxay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menutrasua.resx">
+      <DependentUpon>menutrasua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menutratraicay.resx">
+      <DependentUpon>menutratraicay.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -315,6 +342,87 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="img\Cafe\typcn_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\basil_add-solid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\typcn_delete %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\material-symbols_change-circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Trà sữa\ts chân châu đường đen%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Trà sữa\trà sữa olong%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Trà sữa\ts tứ quý bơ%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Trà sữa\ts tứ quý sương sáo%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Trà sữa\trà đen macchiato%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Trà sữa\hongtrasuatraan châu%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Thức uống đá xay\phin_gato%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Thức uống đá xay\cà phê đường đen%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Thức uống đá xay\bánh kem dâu%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Thức uống đá xay\choco_chip%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Thức uống đá xay\caramel%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Thức uống đá xay\bus%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\bánh\mochi phúc kem bồn tử%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\bánh\mochi kem việt quất%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\bánh\mochi kem chocolate%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\bánh\mousse gấu%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\bánh\bánh mì vn%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\bánh\bimbim ngô%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\bánh\bim bim sữa dừae%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Trà trái cây\trà đào cam sả%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Trà trái cây\đào%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Trà trái cây\trà vải%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Trà trái cây\yuzu%281%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Trà trái cây\olong%281%29%281%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="packages\Microsoft.Data.SqlClient.SNI.5.2.0\build\net462\Microsoft.Data.SqlClient.SNI.targets" Condition="Exists('packages\Microsoft.Data.SqlClient.SNI.5.2.0\build\net462\Microsoft.Data.SqlClient.SNI.targets')" />
