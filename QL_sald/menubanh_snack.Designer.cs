@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(menubanh_snack));
             this.label9 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
@@ -77,6 +78,9 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.pictureBox8 = new System.Windows.Forms.PictureBox();
             this.panel5 = new System.Windows.Forms.Panel();
+            this.panel19 = new System.Windows.Forms.Panel();
+            this.pictureBox13 = new System.Windows.Forms.PictureBox();
+            this.pictureBox14 = new System.Windows.Forms.PictureBox();
             this.panel13 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
             this.button6 = new System.Windows.Forms.Button();
@@ -86,9 +90,6 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.panel19 = new System.Windows.Forms.Panel();
-            this.pictureBox13 = new System.Windows.Forms.PictureBox();
-            this.pictureBox14 = new System.Windows.Forms.PictureBox();
             this.panel7.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel8.SuspendLayout();
@@ -117,11 +118,11 @@
             this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             this.panel5.SuspendLayout();
-            this.panel13.SuspendLayout();
-            this.panel2.SuspendLayout();
             this.panel19.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).BeginInit();
+            this.panel13.SuspendLayout();
+            this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // label9
@@ -169,7 +170,6 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.BackgroundImage = global::QL_sald.Properties.Resources.mousse_gấu_1__1_;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox1.Location = new System.Drawing.Point(0, -1);
             this.pictureBox1.Name = "pictureBox1";
@@ -211,7 +211,6 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.BackgroundImage = global::QL_sald.Properties.Resources.mochi_kem_việt_quất_1__1_;
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox2.Location = new System.Drawing.Point(0, -1);
             this.pictureBox2.Name = "pictureBox2";
@@ -253,7 +252,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.BackgroundImage = global::QL_sald.Properties.Resources.mochi_phúc_kem_bồn_tử_1__1_;
+            this.pictureBox3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox3.BackgroundImage")));
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox3.Location = new System.Drawing.Point(0, -1);
             this.pictureBox3.Name = "pictureBox3";
@@ -295,7 +294,6 @@
             // 
             // pictureBox7
             // 
-            this.pictureBox7.Image = global::QL_sald.Properties.Resources.mdi_search;
             this.pictureBox7.Location = new System.Drawing.Point(3, 0);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(40, 25);
@@ -327,7 +325,6 @@
             // 
             // pictureBox6
             // 
-            this.pictureBox6.BackgroundImage = global::QL_sald.Properties.Resources.bim_bim_sữa_dừae_1__1_;
             this.pictureBox6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox6.Location = new System.Drawing.Point(0, -1);
             this.pictureBox6.Name = "pictureBox6";
@@ -370,7 +367,6 @@
             // 
             // pictureBox12
             // 
-            this.pictureBox12.BackgroundImage = global::QL_sald.Properties.Resources.mousse_gấu_1__1_1;
             this.pictureBox12.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox12.Location = new System.Drawing.Point(0, -1);
             this.pictureBox12.Name = "pictureBox12";
@@ -412,7 +408,6 @@
             // 
             // pictureBox11
             // 
-            this.pictureBox11.BackgroundImage = global::QL_sald.Properties.Resources.bimbim_ngô_1__1_;
             this.pictureBox11.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox11.Location = new System.Drawing.Point(0, -1);
             this.pictureBox11.Name = "pictureBox11";
@@ -454,7 +449,6 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.BackgroundImage = global::QL_sald.Properties.Resources.bánh_mì_vn_1__1_;
             this.pictureBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox4.Location = new System.Drawing.Point(0, -1);
             this.pictureBox4.Name = "pictureBox4";
@@ -496,7 +490,6 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.BackgroundImage = global::QL_sald.Properties.Resources.mochi_kem_chocolate_1__1_;
             this.pictureBox5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox5.Location = new System.Drawing.Point(0, -1);
             this.pictureBox5.Name = "pictureBox5";
@@ -550,7 +543,6 @@
             // pictureBox10
             // 
             this.pictureBox10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.pictureBox10.Image = global::QL_sald.Properties.Resources.material_symbols_change_circle1;
             this.pictureBox10.Location = new System.Drawing.Point(16, 9);
             this.pictureBox10.Name = "pictureBox10";
             this.pictureBox10.Size = new System.Drawing.Size(25, 28);
@@ -581,7 +573,6 @@
             // pictureBox9
             // 
             this.pictureBox9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.pictureBox9.Image = global::QL_sald.Properties.Resources.typcn_delete__1_1;
             this.pictureBox9.Location = new System.Drawing.Point(16, 9);
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.Size = new System.Drawing.Size(25, 28);
@@ -612,7 +603,6 @@
             // pictureBox8
             // 
             this.pictureBox8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.pictureBox8.Image = global::QL_sald.Properties.Resources.basil_add_solid1;
             this.pictureBox8.Location = new System.Drawing.Point(14, 9);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(27, 28);
@@ -630,6 +620,33 @@
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(1098, 588);
             this.panel5.TabIndex = 1;
+            // 
+            // panel19
+            // 
+            this.panel19.Controls.Add(this.pictureBox13);
+            this.panel19.Controls.Add(this.pictureBox14);
+            this.panel19.Location = new System.Drawing.Point(483, 553);
+            this.panel19.Name = "panel19";
+            this.panel19.Size = new System.Drawing.Size(200, 32);
+            this.panel19.TabIndex = 16;
+            // 
+            // pictureBox13
+            // 
+            this.pictureBox13.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox13.Location = new System.Drawing.Point(114, 0);
+            this.pictureBox13.Name = "pictureBox13";
+            this.pictureBox13.Size = new System.Drawing.Size(50, 32);
+            this.pictureBox13.TabIndex = 9;
+            this.pictureBox13.TabStop = false;
+            // 
+            // pictureBox14
+            // 
+            this.pictureBox14.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox14.Location = new System.Drawing.Point(31, 0);
+            this.pictureBox14.Name = "pictureBox14";
+            this.pictureBox14.Size = new System.Drawing.Size(50, 32);
+            this.pictureBox14.TabIndex = 5;
+            this.pictureBox14.TabStop = false;
             // 
             // panel13
             // 
@@ -742,35 +759,6 @@
             this.contextMenuStrip1.Name = "contextMenuStrip1";
             this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
-            // panel19
-            // 
-            this.panel19.Controls.Add(this.pictureBox13);
-            this.panel19.Controls.Add(this.pictureBox14);
-            this.panel19.Location = new System.Drawing.Point(483, 553);
-            this.panel19.Name = "panel19";
-            this.panel19.Size = new System.Drawing.Size(200, 32);
-            this.panel19.TabIndex = 16;
-            // 
-            // pictureBox13
-            // 
-            this.pictureBox13.BackgroundImage = global::QL_sald.Properties.Resources.previous;
-            this.pictureBox13.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox13.Location = new System.Drawing.Point(114, 0);
-            this.pictureBox13.Name = "pictureBox13";
-            this.pictureBox13.Size = new System.Drawing.Size(50, 32);
-            this.pictureBox13.TabIndex = 9;
-            this.pictureBox13.TabStop = false;
-            // 
-            // pictureBox14
-            // 
-            this.pictureBox14.BackgroundImage = global::QL_sald.Properties.Resources.f7_lessthan_square_fill__2_1;
-            this.pictureBox14.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox14.Location = new System.Drawing.Point(31, 0);
-            this.pictureBox14.Name = "pictureBox14";
-            this.pictureBox14.Size = new System.Drawing.Size(50, 32);
-            this.pictureBox14.TabIndex = 5;
-            this.pictureBox14.TabStop = false;
-            // 
             // menubanh_snack
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -818,11 +806,11 @@
             this.panel4.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
             this.panel5.ResumeLayout(false);
-            this.panel13.ResumeLayout(false);
-            this.panel2.ResumeLayout(false);
             this.panel19.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).EndInit();
+            this.panel13.ResumeLayout(false);
+            this.panel2.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }

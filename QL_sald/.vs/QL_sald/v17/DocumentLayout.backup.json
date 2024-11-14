@@ -1,30 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\HK1_2024_2025\\.NET\\btl\\Tiem_cafe_sald\\QL_sald\\",
+  "WorkspaceRootPath": "E:\\HK1_2024_2025\\Tiem_cafe_sald\\QL_sald\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|e:\\hk1_2024_2025\\.net\\btl\\tiem_cafe_sald\\ql_sald\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|E:\\HK1_2024_2025\\.NET\\btl\\Tiem_cafe_sald\\QL_sald\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|e:\\hk1_2024_2025\\.net\\btl\\tiem_cafe_sald\\ql_sald\\menucafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:menucafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|e:\\hk1_2024_2025\\.net\\btl\\tiem_cafe_sald\\ql_sald\\menucafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:menucafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|e:\\hk1_2024_2025\\.net\\btl\\tiem_cafe_sald\\ql_sald\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|E:\\HK1_2024_2025\\.NET\\btl\\Tiem_cafe_sald\\QL_sald\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|e:\\hk1_2024_2025\\tiem_cafe_sald\\ql_sald\\menubanh_snack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:menubanh_snack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,82 +14,18 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "test.cs [Design]",
-              "DocumentMoniker": "E:\\HK1_2024_2025\\.NET\\btl\\Tiem_cafe_sald\\QL_sald\\test.cs",
-              "RelativeDocumentMoniker": "test.cs",
-              "ToolTip": "E:\\HK1_2024_2025\\.NET\\btl\\Tiem_cafe_sald\\QL_sald\\test.cs [Design]",
-              "RelativeToolTip": "test.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T15:31:29.608Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "test.cs",
-              "DocumentMoniker": "E:\\HK1_2024_2025\\.NET\\btl\\Tiem_cafe_sald\\QL_sald\\test.cs",
-              "RelativeDocumentMoniker": "test.cs",
-              "ToolTip": "E:\\HK1_2024_2025\\.NET\\btl\\Tiem_cafe_sald\\QL_sald\\test.cs",
-              "RelativeToolTip": "test.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Title": "menubanh_snack.cs [Design]",
+              "DocumentMoniker": "E:\\HK1_2024_2025\\Tiem_cafe_sald\\QL_sald\\menubanh_snack.cs",
+              "RelativeDocumentMoniker": "menubanh_snack.cs",
+              "ToolTip": "E:\\HK1_2024_2025\\Tiem_cafe_sald\\QL_sald\\menubanh_snack.cs [Design]",
+              "RelativeToolTip": "menubanh_snack.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T07:23:12.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\HK1_2024_2025\\.NET\\btl\\Tiem_cafe_sald\\QL_sald\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\HK1_2024_2025\\.NET\\btl\\Tiem_cafe_sald\\QL_sald\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T07:22:38.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "menucafe.cs [Design]",
-              "DocumentMoniker": "E:\\HK1_2024_2025\\.NET\\btl\\Tiem_cafe_sald\\QL_sald\\menucafe.cs",
-              "RelativeDocumentMoniker": "menucafe.cs",
-              "ToolTip": "E:\\HK1_2024_2025\\.NET\\btl\\Tiem_cafe_sald\\QL_sald\\menucafe.cs [Design]",
-              "RelativeToolTip": "menucafe.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T06:50:55.432Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "menucafe.cs",
-              "DocumentMoniker": "E:\\HK1_2024_2025\\.NET\\btl\\Tiem_cafe_sald\\QL_sald\\menucafe.cs",
-              "RelativeDocumentMoniker": "menucafe.cs",
-              "ToolTip": "E:\\HK1_2024_2025\\.NET\\btl\\Tiem_cafe_sald\\QL_sald\\menucafe.cs",
-              "RelativeToolTip": "menucafe.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAWwFAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T06:50:15.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\HK1_2024_2025\\.NET\\btl\\Tiem_cafe_sald\\QL_sald\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\HK1_2024_2025\\.NET\\btl\\Tiem_cafe_sald\\QL_sald\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T06:30:51.587Z",
+              "WhenOpened": "2024-11-14T13:39:03.723Z",
               "EditorCaption": " [Design]"
             }
           ]

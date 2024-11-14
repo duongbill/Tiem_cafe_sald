@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(menuthucuongdaxay));
             this.label9 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
@@ -69,6 +70,9 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.pictureBox8 = new System.Windows.Forms.PictureBox();
             this.panel5 = new System.Windows.Forms.Panel();
+            this.panel17 = new System.Windows.Forms.Panel();
+            this.pictureBox11 = new System.Windows.Forms.PictureBox();
+            this.pictureBox12 = new System.Windows.Forms.PictureBox();
             this.panel13 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
             this.button6 = new System.Windows.Forms.Button();
@@ -78,9 +82,6 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.panel17 = new System.Windows.Forms.Panel();
-            this.pictureBox11 = new System.Windows.Forms.PictureBox();
-            this.pictureBox12 = new System.Windows.Forms.PictureBox();
             this.panel7.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel8.SuspendLayout();
@@ -105,11 +106,11 @@
             this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             this.panel5.SuspendLayout();
-            this.panel13.SuspendLayout();
-            this.panel2.SuspendLayout();
             this.panel17.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
+            this.panel13.SuspendLayout();
+            this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // label9
@@ -157,7 +158,6 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.BackgroundImage = global::QL_sald.Properties.Resources.bánh_kem_dâu_1__1_;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox1.Location = new System.Drawing.Point(0, -1);
             this.pictureBox1.Name = "pictureBox1";
@@ -199,7 +199,6 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.BackgroundImage = global::QL_sald.Properties.Resources.cà_phê_đường_đen_1__1_;
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox2.Location = new System.Drawing.Point(0, -1);
             this.pictureBox2.Name = "pictureBox2";
@@ -241,7 +240,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.BackgroundImage = global::QL_sald.Properties.Resources.phin_gato_1__1_;
+            this.pictureBox3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox3.BackgroundImage")));
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox3.Location = new System.Drawing.Point(0, -1);
             this.pictureBox3.Name = "pictureBox3";
@@ -283,7 +282,6 @@
             // 
             // pictureBox7
             // 
-            this.pictureBox7.Image = global::QL_sald.Properties.Resources.mdi_search;
             this.pictureBox7.Location = new System.Drawing.Point(3, 0);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(40, 25);
@@ -315,7 +313,6 @@
             // 
             // pictureBox6
             // 
-            this.pictureBox6.BackgroundImage = global::QL_sald.Properties.Resources.bus_1__1_;
             this.pictureBox6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox6.Location = new System.Drawing.Point(0, -1);
             this.pictureBox6.Name = "pictureBox6";
@@ -357,7 +354,6 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.BackgroundImage = global::QL_sald.Properties.Resources.caramel_1__1_;
             this.pictureBox5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox5.Location = new System.Drawing.Point(0, -1);
             this.pictureBox5.Name = "pictureBox5";
@@ -378,7 +374,6 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.BackgroundImage = global::QL_sald.Properties.Resources.choco_chip_1__1_;
             this.pictureBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox4.Location = new System.Drawing.Point(0, -1);
             this.pictureBox4.Name = "pictureBox4";
@@ -454,7 +449,6 @@
             // pictureBox10
             // 
             this.pictureBox10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.pictureBox10.Image = global::QL_sald.Properties.Resources.material_symbols_change_circle1;
             this.pictureBox10.Location = new System.Drawing.Point(16, 9);
             this.pictureBox10.Name = "pictureBox10";
             this.pictureBox10.Size = new System.Drawing.Size(25, 28);
@@ -485,7 +479,6 @@
             // pictureBox9
             // 
             this.pictureBox9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.pictureBox9.Image = global::QL_sald.Properties.Resources.typcn_delete__1_1;
             this.pictureBox9.Location = new System.Drawing.Point(16, 9);
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.Size = new System.Drawing.Size(25, 28);
@@ -516,7 +509,6 @@
             // pictureBox8
             // 
             this.pictureBox8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.pictureBox8.Image = global::QL_sald.Properties.Resources.basil_add_solid1;
             this.pictureBox8.Location = new System.Drawing.Point(14, 9);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(27, 28);
@@ -534,6 +526,33 @@
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(1098, 588);
             this.panel5.TabIndex = 1;
+            // 
+            // panel17
+            // 
+            this.panel17.Controls.Add(this.pictureBox11);
+            this.panel17.Controls.Add(this.pictureBox12);
+            this.panel17.Location = new System.Drawing.Point(483, 553);
+            this.panel17.Name = "panel17";
+            this.panel17.Size = new System.Drawing.Size(200, 32);
+            this.panel17.TabIndex = 16;
+            // 
+            // pictureBox11
+            // 
+            this.pictureBox11.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox11.Location = new System.Drawing.Point(114, 0);
+            this.pictureBox11.Name = "pictureBox11";
+            this.pictureBox11.Size = new System.Drawing.Size(50, 32);
+            this.pictureBox11.TabIndex = 9;
+            this.pictureBox11.TabStop = false;
+            // 
+            // pictureBox12
+            // 
+            this.pictureBox12.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox12.Location = new System.Drawing.Point(31, 0);
+            this.pictureBox12.Name = "pictureBox12";
+            this.pictureBox12.Size = new System.Drawing.Size(50, 32);
+            this.pictureBox12.TabIndex = 5;
+            this.pictureBox12.TabStop = false;
             // 
             // panel13
             // 
@@ -645,35 +664,6 @@
             this.contextMenuStrip1.Name = "contextMenuStrip1";
             this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
-            // panel17
-            // 
-            this.panel17.Controls.Add(this.pictureBox11);
-            this.panel17.Controls.Add(this.pictureBox12);
-            this.panel17.Location = new System.Drawing.Point(483, 553);
-            this.panel17.Name = "panel17";
-            this.panel17.Size = new System.Drawing.Size(200, 32);
-            this.panel17.TabIndex = 16;
-            // 
-            // pictureBox11
-            // 
-            this.pictureBox11.BackgroundImage = global::QL_sald.Properties.Resources.previous;
-            this.pictureBox11.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox11.Location = new System.Drawing.Point(114, 0);
-            this.pictureBox11.Name = "pictureBox11";
-            this.pictureBox11.Size = new System.Drawing.Size(50, 32);
-            this.pictureBox11.TabIndex = 9;
-            this.pictureBox11.TabStop = false;
-            // 
-            // pictureBox12
-            // 
-            this.pictureBox12.BackgroundImage = global::QL_sald.Properties.Resources.f7_lessthan_square_fill__2_1;
-            this.pictureBox12.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox12.Location = new System.Drawing.Point(31, 0);
-            this.pictureBox12.Name = "pictureBox12";
-            this.pictureBox12.Size = new System.Drawing.Size(50, 32);
-            this.pictureBox12.TabIndex = 5;
-            this.pictureBox12.TabStop = false;
-            // 
             // menuthucuongdaxay
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -715,11 +705,11 @@
             this.panel4.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
             this.panel5.ResumeLayout(false);
-            this.panel13.ResumeLayout(false);
-            this.panel2.ResumeLayout(false);
             this.panel17.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
+            this.panel13.ResumeLayout(false);
+            this.panel2.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
