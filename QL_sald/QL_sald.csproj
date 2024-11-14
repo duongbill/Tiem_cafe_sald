@@ -161,10 +161,28 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="package_dif.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="package_dif.Designer.cs">
+      <DependentUpon>package_dif.cs</DependentUpon>
+    </Compile>
+    <Compile Include="packages.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="packages.Designer.cs">
+      <DependentUpon>packages.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="package_dif.resx">
+      <DependentUpon>package_dif.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="packages.resx">
+      <DependentUpon>packages.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -190,7 +208,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <None Include="img\baocao.png" />
   </ItemGroup>
