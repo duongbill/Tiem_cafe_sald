@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_coffe\\Tiem_cafe_sald\\ValueObject\\ValueObject.csproj": {}
   },
   "projects": {
@@ -12,9 +13,27 @@
         "projectPath": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_coffe\\Tiem_cafe_sald\\ValueObject\\ValueObject.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
         "outputPath": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_coffe\\Tiem_cafe_sald\\ValueObject\\obj\\",
+=======
+    "E:\\HK1_2024_2025\\Tiem_cafe_sald\\ValueObject\\ValueObject.csproj": {}
+  },
+  "projects": {
+    "E:\\HK1_2024_2025\\Tiem_cafe_sald\\ValueObject\\ValueObject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\HK1_2024_2025\\Tiem_cafe_sald\\ValueObject\\ValueObject.csproj",
+        "projectName": "ValueObject",
+        "projectPath": "E:\\HK1_2024_2025\\Tiem_cafe_sald\\ValueObject\\ValueObject.csproj",
+        "packagesPath": "C:\\Users\\shopf\\.nuget\\packages\\",
+        "outputPath": "E:\\HK1_2024_2025\\Tiem_cafe_sald\\ValueObject\\obj\\",
+>>>>>>> a0408cbb915892982891e7981eacf2ee37736825
         "projectStyle": "PackageReference",
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\shopf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> a0408cbb915892982891e7981eacf2ee37736825
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

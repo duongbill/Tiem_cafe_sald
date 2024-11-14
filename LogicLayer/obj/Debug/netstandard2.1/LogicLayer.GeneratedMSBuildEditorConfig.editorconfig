@@ -1,5 +1,9 @@
 is_global = true
 build_property.RootNamespace = LogicLayer
+<<<<<<< HEAD
 build_property.ProjectDir = F:\WorkSpace\Program-Language\WinformC#\product\sald_coffe\Tiem_cafe_sald\LogicLayer\
+=======
+build_property.ProjectDir = E:\HK1_2024_2025\Tiem_cafe_sald\LogicLayer\
+>>>>>>> a0408cbb915892982891e7981eacf2ee37736825
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

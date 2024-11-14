@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\sald_coffe\\Tiem_cafe_sald\\QL_sald\\",
   "Documents": [
     {
@@ -41,6 +42,13 @@
     {
       "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|f:\\workspace\\program-language\\winformc#\\product\\sald_coffe\\tiem_cafe_sald\\ql_sald\\package_dif.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:package_dif.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "E:\\HK1_2024_2025\\Tiem_cafe_sald\\QL_sald\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|e:\\hk1_2024_2025\\tiem_cafe_sald\\ql_sald\\menubanh_snack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FA1FB32-C92E-47A3-B945-091360EA8F82}|QL_sald.csproj|solutionrelative:menubanh_snack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> a0408cbb915892982891e7981eacf2ee37736825
     }
   ],
   "DocumentGroupContainers": [
@@ -50,6 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -181,6 +190,20 @@
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T14:19:56.351Z",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menubanh_snack.cs [Design]",
+              "DocumentMoniker": "E:\\HK1_2024_2025\\Tiem_cafe_sald\\QL_sald\\menubanh_snack.cs",
+              "RelativeDocumentMoniker": "menubanh_snack.cs",
+              "ToolTip": "E:\\HK1_2024_2025\\Tiem_cafe_sald\\QL_sald\\menubanh_snack.cs [Design]",
+              "RelativeToolTip": "menubanh_snack.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:39:03.723Z",
+>>>>>>> a0408cbb915892982891e7981eacf2ee37736825
               "EditorCaption": " [Design]"
             }
           ]
